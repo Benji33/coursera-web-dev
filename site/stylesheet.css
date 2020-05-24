@@ -1,3 +1,40 @@
 h1 {
   color : red;
 }
+p{
+	background-color:#7ECFFE;
+	width: 20%;
+	padding: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border:1px solid black;
+	box-sizing: border-box;
+}
+
+div{
+	background-color: #60ACFA;
+}
+#p1{
+	position: absolute;
+	}
+#p2{
+	position: relative;
+	left:140px;
+	top:-44px;
+	}	
+#p3{
+	position: relative;
+	left:280px;
+	top:-88px;
+	}
+#p4{
+	position: relative;
+	left:400px;
+	top:-132px;
+	}
+#p5{
+	position:relative;
+	left: 540px;
+	top:-176px;
+
+	}
