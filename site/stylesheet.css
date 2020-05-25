@@ -3,6 +3,7 @@ h1 {
 }
 p{
 	background-color:#7ECFFE;
+	text-align: center;
 	width: 20%;
 	padding: 5px;
 	margin-right: 10px;
@@ -14,9 +15,11 @@ p{
 div{
 	background-color: #60ACFA;
 }
+a:hover, a:active{
+	color: #5AB70F;
+}
 #p1{
-	position: absolute;
-	}
+		}
 #p2{
 	position: relative;
 	left:140px;
